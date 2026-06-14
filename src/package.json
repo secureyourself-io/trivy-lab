@@ -1,0 +1,12 @@
+{
+  "name": "trivy-lab",
+  "version": "1.0.0",
+  "description": "Sample app for Trivy scanning lab",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
